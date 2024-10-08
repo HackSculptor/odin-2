@@ -1,0 +1,58 @@
+h1{
+    font-family: "PT Serif", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: xx-large;
+    color: aliceblue;
+    text-align: center;
+}
+
+.FRONTBAR{
+    display: flex;
+    gap:40%;
+   
+}
+
+.DS{
+    display: flex;
+    flex-direction: column;
+    background-color:#1F2937;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw; /* Full width */
+    height: 100vh; /* Full height */
+}
+
+#img1{
+   padding-right: 10%;
+  
+}
+
+.DS2{
+    display: flex;
+    flex-direction: row;
+    background-color:#6EACDA;
+    gap: 25%;
+}
+
+#f1{
+    
+    padding-left: 20%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+#f2{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+#f3{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
